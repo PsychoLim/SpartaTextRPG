@@ -1,0 +1,15 @@
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\bin\Debug\net6.0\SpartaTextRpg.exe
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\bin\Debug\net6.0\SpartaTextRpg.deps.json
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\bin\Debug\net6.0\SpartaTextRpg.runtimeconfig.json
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\bin\Debug\net6.0\SpartaTextRpg.dll
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\bin\Debug\net6.0\SpartaTextRpg.pdb
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.csproj.AssemblyReference.cache
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.AssemblyInfoInputs.cache
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.AssemblyInfo.cs
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.csproj.CoreCompileInputs.cache
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.dll
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\refint\SpartaTextRpg.dll
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.pdb
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\SpartaTextRpg.genruntimeconfig.cache
+D:\VsCoad\SpartaTextRpg\SpartaTextRpg\obj\Debug\net6.0\ref\SpartaTextRpg.dll
